@@ -1,5 +1,5 @@
 import cv2
-image = cv 2imread("C:\Users\bhuvan\Downloads\wallpaperflare.com_wallpaper.png")
+image = cv 2imread("")
 grey_filter = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 invert = cv2.bitwise_and(grey_filter)
 blur = cv2.GaussianBlur(invert, (21,21),0)
