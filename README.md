@@ -26,13 +26,14 @@ This Python project converts images into realistic pencil sketches using OpenCV.
 ## Example
 **Input:** 
 
-![Original Image](path/to/original.jpg)
-![image2](https://github.com/user-attachments/assets/2c92669f-cd9a-4a9c-b488-7ddf8d423a6e)
+![Original Image](![image2](https://github.com/user-attachments/assets/1c48721c-d187-410a-8a02-4062d6399d6e)
+)
 
 
 **Output:**  
 
-![Pencil Sketch](path/to/sketch.jpg)
-![image](https://github.com/user-attachments/assets/cd63fd40-6d6b-4768-9812-f591336c2bad)
+![Pencil Sketch](![image](https://github.com/user-attachments/assets/22af9f16-49e2-4fbd-8567-ab03ca5fd620)
+)
+
 
 
